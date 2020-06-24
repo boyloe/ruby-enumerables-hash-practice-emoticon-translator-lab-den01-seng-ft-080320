@@ -24,6 +24,8 @@ def get_japanese_emoticon(file, e_emoticon)
       end 
     end
   end
+  if j_emoticon == ""
+    
   j_emoticon
 end
 
